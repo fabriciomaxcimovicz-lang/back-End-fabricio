@@ -1,6 +1,6 @@
 const aluno = {
-    idade: 16,
-    nome: "Lucas",
+    idade: 15,
+    nome: "fabricio",
     cdd: "Cascavel",
     colegio: "Ceeep",
     curso: "D.S"
@@ -8,6 +8,6 @@ const aluno = {
 
 console.log(`nome: ${aluno.nome}, Idade: ${aluno.idade}, cidade: ${aluno.cdd}, colegio: ${aluno.colegio}, curso: ${aluno.curso}`);
 
-aluno.idade = 17;
+aluno.idade = 15;
 
 console.log(`idade: ${aluno.idade}`);
