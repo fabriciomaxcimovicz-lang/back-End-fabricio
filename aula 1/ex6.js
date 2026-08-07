@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 const secreto = 42;
 let tentativas = 0;
 
@@ -15,7 +15,7 @@ while (true) {
         console.log("O número secreto é MENOR que o digitado. Tente novamente!");
     }
 }
-=======
+
 const secreto = 42;
 let tentativas = 0;
 
@@ -32,4 +32,4 @@ while (true) {
         console.log("O número secreto é MENOR que o digitado. Tente novamente!");
     }
 }
->>>>>>> ed0d96df9b74752ccb56e9cd519b966e4395047a
+

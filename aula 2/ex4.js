@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 function finalizarCompra(valor, cupom, CalcularFreteCB) {
     
     const cupomValido = /2026/.test(cupom);
@@ -13,7 +13,7 @@ const cliente2 = finalizarCompra(100, "PROMO2025", v => v + 20);
 
 console.log("Valor final para cliente 1: " + cliente1);
 console.log("Valor final para cliente 2: " + cliente2);
-=======
+
 function finalizarCompra(valor, cupom, CalcularFreteCB) {
     
     const cupomValido = /2026/.test(cupom);
@@ -28,4 +28,4 @@ const cliente2 = finalizarCompra(100, "PROMO2025", v => v + 20);
 
 console.log("Valor final para cliente 1: " + cliente1);
 console.log("Valor final para cliente 2: " + cliente2);
->>>>>>> 531e4dad48b4340a19031592922c0afdb88c97b7
+

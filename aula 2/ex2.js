@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 const input   = require("readline-sync")
 
 function validadorSenha(senha) {    
@@ -23,7 +23,7 @@ function validadorSenha(senha) {
 let senha = input.question("Digite a senha para a validação: ");
 
 console.log(validadorSenha(senha));
-=======
+
 const input   = require("readline-sync")
 
 function validadorSenha(senha) {    
@@ -48,4 +48,4 @@ function validadorSenha(senha) {
 let senha = input.question("Digite a senha para a validação: ");
 
 console.log(validadorSenha(senha));
->>>>>>> 531e4dad48b4340a19031592922c0afdb88c97b7
+

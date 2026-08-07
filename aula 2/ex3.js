@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 const input   = require("readline-sync")
 
 const soma = (a, b) => a + b
@@ -17,7 +17,7 @@ console.log("Resultado da soma: " + soma(10, 5))
 console.log("Resultado da subtração: " + sub(10, 5))
 console.log("Resultado da multiplicação: " + mult(10, 5))
 console.log("Resultado da divisão: " + div(10, 5))
-=======
+
 const input   = require("readline-sync")
 
 const soma = (a, b) => a + b
@@ -36,4 +36,4 @@ console.log("Resultado da soma: " + soma(10, 5))
 console.log("Resultado da subtração: " + sub(10, 5))
 console.log("Resultado da multiplicação: " + mult(10, 5))
 console.log("Resultado da divisão: " + div(10, 5))
->>>>>>> 531e4dad48b4340a19031592922c0afdb88c97b7
+

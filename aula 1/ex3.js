@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 const input = require('readline-sync')
 
 let soma = 0
@@ -17,7 +17,7 @@ if (media >= 7) {
 } else {
     console.log("Reprovado");
 }   
-=======
+
 const input = require('readline-sync')
 
 let soma = 0
@@ -36,4 +36,4 @@ if (media >= 7) {
 } else {
     console.log("Reprovado");
 }   
->>>>>>> ed0d96df9b74752ccb56e9cd519b966e4395047a
+
