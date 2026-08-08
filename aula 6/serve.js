@@ -3,10 +3,10 @@ const app = express();
 app.use(express.json());
 
 let livros = [
-    { id: 1, nome: "Box Senhor dos Anéis",            preco: 149.99 },
-    { id: 2, nome: "A hora da estrela",               preco: 19.99  },
-    { id: 3, nome: "O exorcista",                     preco: 55.00  },
-    { id: 4, nome: "Assassinato no Expresso Oriente", preco: 29.99  },
+    { id: 1, nome: "Box Senhor dos Anéis",            preco: 149.86 },
+    { id: 2, nome: "A hora da estrela",               preco: 19.96  },
+    { id: 3, nome: "O exorcista",                     preco: 55.50  },
+    { id: 4, nome: "Assassinato no Expresso Oriente", preco: 29.56  },
 ];
 
 let proximoId = 5;
